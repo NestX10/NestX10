@@ -12,7 +12,7 @@
   </ul>
 </p>
 
-## 🖥️ Habilidades Técnicas
+## 👨🏻‍💻 Habilidades Técnicas
 
 ### 🧩 Lenguajes y Bases de Datos  
 <p align="left">  
