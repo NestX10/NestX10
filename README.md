@@ -7,7 +7,7 @@
     <li>🎓 Estudiante de <strong>Ciencia e Ingeniería de Datos</strong> en la <strong>Universidad de Las Palmas de Gran Canaria</strong>.</li>
     <li>💻 Apasionado por la <strong>inteligencia artificial</strong>, el <strong>análisis de datos</strong> y la <strong>automatización de procesos</strong>.</li>
     <li>🚀 Interesado en aplicar la ciencia de datos para <strong>mejorar la toma de decisiones</strong> y <strong>optimizar sistemas</strong>.</li>
-    <li>🧩 Experiencia con herramientas como <strong>Python</strong>, <strong>R</strong> y <strong>SQL</strong>.</li>
+    <li>🧩 Experiencia con herramientas como <strong>Python</strong>, <strong>Java</strong> y <strong>R</strong>.
     <li>📊 Enfocado en áreas como <strong>Machine Learning</strong>, <strong>Big Data</strong> y <strong>Desarrollo de software</strong>.</li>
   </ul>
 </p>
