@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">¡Hola, soy Fabio! 👋</h1>
+<br>
 
-<!--
-**NestX10/NestX10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>➡️ Sobre mi:</h2>
+<p align="left">
+  <ul>
+    <li>🎓 Estudiante de <strong>Ciencia e Ingeniería de Datos</strong> en la <strong>Universidad de Las Palmas de Gran Canaria</strong>.</li>
+    <li>💻 Apasionado por la <strong>inteligencia artificial</strong>, el <strong>análisis de datos</strong> y la <strong>automatización de procesos</strong>.</li>
+    <li>🚀 Interesado en aplicar la ciencia de datos para <strong>mejorar la toma de decisiones</strong> y <strong>optimizar sistemas</strong>.</li>
+    <li>🧩 Experiencia con herramientas como <strong>Python</strong>, <strong>R</strong> y <strong>SQL</strong>.</li>
+    <li>📊 Enfocado en áreas como <strong>Machine Learning</strong>, <strong>Big Data</strong> y <strong>Desarrollo de software</strong>.</li>
+  </ul>
+</p>
 
-Here are some ideas to get you started:
+## 🖥️ Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Lenguajes y Bases de Datos  
+<p align="left">  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,r,sqlite,oracle&perline=10" />  
+</p>
+
+### 📚 Frameworks y Librerías  
+<p align="left">  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,plotly,scikitlearn,opencv&perline=10" />  
+</p>
+
+### 🛠 Herramientas y Entornos de Desarrollo  
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,vscode,git,github,anaconda,virtualbox,jupyter&perline=12" />
+</p>
+
+### 📫 Contacto  
+<p align="left">
+  <a href="fabionesta05@gmail.com">
+    <img alt="Correo" src="https://img.shields.io/badge/Correo-fabionesta05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/NestX10">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-NestX10-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/fabionest">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fabionest-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
