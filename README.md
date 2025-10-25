@@ -1,4 +1,4 @@
-X<h1 align="center">¡Hola, soy Fabio! 👋</h1>
+<h1 align="center">¡Hola, soy Fabio! 👋</h1>
 <br>
 
 <h2>➡️ Sobre mi:</h2>
