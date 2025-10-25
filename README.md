@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Fabio! 👋</h1>
+X<h1 align="center">¡Hola, soy Fabio! 👋</h1>
 <br>
 
 <h2>➡️ Sobre mi:</h2>
@@ -31,14 +31,14 @@
 
 ### 📫 Contacto  
 <p align="left">
-  <a href="mailto:fabionesta05gmail.com">
-    <img alt="Correo" src="https://img.shields.io/badge/Correo-fabionesta05gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:fabionesta05@gmail.com">
+    <img alt="Correo" src="https://img.shields.io/badge/Correo-fabionesta05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/tuusuario">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-tuusuario-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-NestX10-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tuusuario">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tuusuario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fabionest-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
