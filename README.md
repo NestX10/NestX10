@@ -34,10 +34,10 @@
   <a href="mailto:fabionesta05@gmail.com">
     <img alt="Correo" src="https://img.shields.io/badge/Correo-fabionesta05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/tuusuario">
+  <a href="https://github.com/NestX10">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-NestX10-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tuusuario">
+  <a href="https://www.linkedin.com/in/fabionest">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fabionest-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
